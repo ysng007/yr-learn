@@ -106,7 +106,7 @@ error Looks like your iOS environment is not properly set. Please go to https://
 2. osaio 调试：`yarn start:osaio`
 3. 默认 `8081端口`, `yarn start:nooie --port 8082`指定端口
 
-### 打包调试
+### 打包上线
 
 #### 本地打包
 
