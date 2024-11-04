@@ -1,18 +1,25 @@
+## 前置知识
+
+-   [Javascript 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+-   [ES6 入门教程](https://es6.ruanyifeng.com/)
+-   [React 基础](https://react.dev/)
+-   [ReactNative 基础](https://reactnative-archive-august-2023.netlify.app/docs/0.62/getting-started), [中文](https://reactnative.cn/)
+
 ## 搭建环境
 
 开发面板，需要安装：
 
-- **nvm:** node 版本管理器
-- **nrm:** npm 的镜像源管理工具
+-   **nvm:** node 版本管理器
+-   **nrm:** npm 的镜像源管理工具
 
 ### 安装开发工具
 
 面板开发前，自行下载安装下列推荐的编辑器：
 
-- **Visual Studio Code**：（推荐）自带格式化、代码跳转等常用功能，社区贡献与活跃度较高。
-- WebStorm：集成度较高的 IDE。
-- Sublime Text：小巧轻便。
-- Atom：小巧轻便。
+-   **Visual Studio Code**：（推荐）自带格式化、代码跳转等常用功能，社区贡献与活跃度较高。
+-   WebStorm：集成度较高的 IDE。
+-   Sublime Text：小巧轻便。
+-   Atom：小巧轻便。
 
 ### 安装 nvm
 
@@ -22,7 +29,7 @@
 
 3. 输入 `nvm install 16.0.0`, 安装 Node.js 16.0.0 版本
 
-   > 由于 RN 的版本为 0.62.3，建议安装 Node.js 16 系列的版本。
+    > 由于 RN 的版本为 0.62.3，建议安装 Node.js 16 系列的版本。
 
 4. 支持通过 `nvm use` 命令切换至指定 Node.js 版本
 
@@ -53,7 +60,7 @@
 1. 初始化
 
 ```js
-npx react-native init your-project-name --template yr-panel-init-template
+npx react-native@0.62.3 init AwesomeProject --template yr-panel-init-template
 
 完成后安装依赖报错没有关系, 项目可以正常运行
 ✔ Downloading template
