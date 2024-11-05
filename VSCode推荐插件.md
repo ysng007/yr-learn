@@ -1,0 +1,17 @@
+-   **AWS Toolkit:** 一款 AI 辅助编程工具
+-   **Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code:** 简体中文语言包扩展
+-   **CodeSnap:** 为您的代码截取漂亮的屏幕截图
+-   **ES7+ React/Redux/React-Native snippets:** 使用 ES7+ 语法对 JS/TS 中的 React、React-Native 和 Redux 进行扩展。可定制。与 Prettier 的内置集成
+-   **Git Graph:** 查看存储库的 Git 图表，并从图表中执行 Git 操作。
+-   **Git History:** 查看 git 日志、文件历史记录、比较分支或提交
+-   **GitLens — Git supercharged:** 在 VS Code 中增强 Git — 通过 Git 责任注释和 CodeLens 使代码作者身份一目了然，无缝导航和探索 Git 存储库，通过丰富的可视化和强大的比较命令获得有价值的见解，等等
+-   **Live Server:** 启动具有静态和动态页面实时重新加载功能的开发本地服务器
+-   **Markdown Preview Enhanced:** Markdown 文件预览
+-   **Material Icon Theme:** Visual Studio Code 的设计图标主题
+-   **PlantUML:** 对 Visual Studio Code 的丰富 PlantUML 支持。
+-   **Prettier - Code formatter:** 使用 Prettier 的代码格式化程序
+-   **React Native Snippet:** React Native, Typescript React Native, StyleSheet, Redux 代码片段
+-   **React PropTypes Intellisense:** React 组件的 PropTypes 智能感知
+-   **Remote - SSH:** 使用 SSH 打开远程计算机上的任意文件夹并利用 VS Code 的完整功能集
+-   **Remote Repositories:** 远程浏览和编辑 git 存储库
+-   **Simple React Snippets:** 您将实际使用的非常简单的 React 片段
